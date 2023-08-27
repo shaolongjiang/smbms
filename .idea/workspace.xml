@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7678140a-cb53-4256-9ff7-a70f4ae07405" name="Default Changelist" comment="第一次测试">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shao/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shao/util/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -594,7 +593,7 @@
       <workItem from="1662945775290" duration="4959000" />
       <workItem from="1662950798098" duration="5416000" />
       <workItem from="1662966706757" duration="2332000" />
-      <workItem from="1693121114079" duration="697000" />
+      <workItem from="1693121114079" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="第一次测试">
       <created>1693121420599</created>
