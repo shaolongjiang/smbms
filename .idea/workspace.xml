@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7678140a-cb53-4256-9ff7-a70f4ae07405" name="Default Changelist" comment="第一次测试">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shao/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shao/util/Constants.java" afterDir="false" />
-    </list>
+    <list default="true" id="7678140a-cb53-4256-9ff7-a70f4ae07405" name="Default Changelist" comment="第二次测试" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -375,7 +373,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -593,7 +591,7 @@
       <workItem from="1662945775290" duration="4959000" />
       <workItem from="1662950798098" duration="5416000" />
       <workItem from="1662966706757" duration="2332000" />
-      <workItem from="1693121114079" duration="1028000" />
+      <workItem from="1693121114079" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="第一次测试">
       <created>1693121420599</created>
@@ -602,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693121420599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次测试">
+      <created>1693122174875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693122174875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -730,7 +735,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次测试" />
+    <MESSAGE value="第二次测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次测试" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
