@@ -8,4 +8,5 @@ public class Constants {
     public static int d = 2;
     public int m = 1;
     public int n = 1;
+    public int p = 1;
 }
